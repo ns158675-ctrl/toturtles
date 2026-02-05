@@ -1,0 +1,24 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Toturtles</title>
+</head>
+<body>
+  <h1>Welcome to Toturtles 🐢</h1>
+  <p>Toturtles is a small eco-friendly startup created by a young entrepreneur. We sell handmade tote bags, crochet keychains, and cute accessories that are kind to the planet.</p>
+
+  <h2>Our Products</h2>
+  <ul>
+    <li>Eco-friendly Tote Bags</li>
+    <li>Crochet Keychains</li>
+    <li>Handmade Accessories</li>
+  </ul>
+
+  <h2>Contact Us</h2>
+  <p>Phone: +91-XXXXXXXXXX</p>
+  <p>Email: toturtles@example.com</p>
+
+  <p>Thank you for supporting small businesses and helping the Earth 🌍</p>
+</body>
+</html>
